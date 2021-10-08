@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locating cell</string>
+    <string name="developers_name">
+    Developed by:
+            \n Mobina Kashanian 96522321
+            \n Sepehr Babapour 96481073
+            \n Fateme Saffari 95522103
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
